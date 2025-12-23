@@ -8,7 +8,7 @@ body {
   padding: 20px;
 }
 
-/* MEDIA ICONS */
+
 .media-icons {
   display: flex;
   align-items: center;
@@ -29,7 +29,6 @@ body {
   text-decoration: none;
 }
 
-/* LINK BOXES */
 .link-boxes {
   display: flex;
   justify-content: space-evenly;
@@ -44,7 +43,6 @@ body {
   margin: 6px 0;
 }
 
-/* FOOTER END */
 .end-section {
   display: flex;
   justify-content: space-evenly;
